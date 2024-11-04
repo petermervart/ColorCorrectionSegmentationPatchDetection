@@ -143,6 +143,10 @@ Procedure:
 
 ## Image 1
 
+### Raw Image
+
+![image](https://github.com/user-attachments/assets/4afdb0e7-6b42-4e3b-a3f4-41dbaad92121)
+
 ### Cropped section displayed in RGB (Lab used for calculation)
 
 ![image](https://user-images.githubusercontent.com/55833503/227802814-63042016-bff5-4c08-8c1b-c144114c89ef.png)
@@ -160,6 +164,10 @@ Procedure:
 ![image](https://user-images.githubusercontent.com/55833503/227802853-3ecec79f-dfb4-4865-9b97-13abdf01ad8c.png)
 
 ## Image 2
+
+### Raw Image
+
+![image](https://github.com/user-attachments/assets/813c8f41-aa48-4771-a773-9462f7f370a1)
 
 ### Cropped section displayed in RGB (Lab used for calculation)
 
